@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DxfGenerator1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DxfGenerator/out/artifacts/DxfGenerator_v2_jar/DxfGenerator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
